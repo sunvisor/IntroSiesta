@@ -12,5 +12,5 @@
 
 ## 参考
 
-[Japan Sencha User Group](http://www.meetup.com/Japan-Sencha-User-Group/)
-[Siestaの製品情報](http://bryntum.com/products/siesta/)
++ [Japan Sencha User Group](http://www.meetup.com/Japan-Sencha-User-Group/)
++ [Siestaの製品情報](http://bryntum.com/products/siesta/)
